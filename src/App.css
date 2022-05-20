@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.label-file-add-product {
+  background: #f74d4d;
+  color: white;
+  padding: 0.5rem 1rem;
+  font-family: sans-serif;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
